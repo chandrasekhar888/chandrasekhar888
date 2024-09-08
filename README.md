@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chandrasekhar888
 - 👀 I’m interested in coding
-- 🌱 I’m currently developing project
 - 📫 How to reach me 6302991589
 
 <!---
