@@ -15,7 +15,7 @@
 
 📫 How to reach me: **pchandu8803@gmail.com**
 
-📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1b5c3kKk2UjGcuhe4U9yX1TdtZDR3TEVN/view?usp=drive_link)
+📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1yGDZjOHGrximcpQDwYGiDckq-tXiiTC-/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
