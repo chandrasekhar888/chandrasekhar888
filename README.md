@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Java Course**
+🌱 I’m currently learning **Full Stack Java Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chandrasekhar888](https://github.com/chandrasekhar888)
+👨‍💻 All of my projects are available at [GitHub](https://github.com/chandrasekhar888)
 
-- 📫 How to reach me **pchandu8803@gmail.com**
+📫 How to reach me: **pchandu8803@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b5c3kKk2UjGcuhe4U9yX1TdtZDR3TEVN/view?usp=drive_link](https://drive.google.com/file/d/1b5c3kKk2UjGcuhe4U9yX1TdtZDR3TEVN/view?usp=drive_link)
+📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1b5c3kKk2UjGcuhe4U9yX1TdtZDR3TEVN/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
