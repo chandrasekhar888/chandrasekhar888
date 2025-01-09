@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/padamata chandra sekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padamata chandra sekhar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itschandrasekhar/recent-activity/all/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padamata chandra sekhar" height="30" width="40" /></a>
 <a href="https://instagram.com/itschandrasekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itschandrasekhar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/padamata chandra sekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="padamata chandra sekhar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/padamatachandra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="padamata chandra sekhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
