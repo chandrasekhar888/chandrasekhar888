@@ -36,10 +36,6 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
 
   <!-- Terraform -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
@@ -51,10 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/>
   </a>
 
-  <!-- Microservices -->
-  <a href="https://microservices.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Microservices_Architecture.svg/1280px-Microservices_Architecture.svg.png" alt="microservices" width="40" height="40"/>
-  </a>
+
 
   <!-- Maven -->
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
@@ -71,10 +64,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   </a>
 
-  <!-- Loggers -->
-  <a href="https://logback.qos.ch/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logback_Logo.svg/512px-Logback_Logo.svg.png" alt="logback" width="40" height="40"/>
-  </a>
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
@@ -86,10 +75,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-  <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Jira_logo.svg" alt="jira" width="40" height="40"/>
-  </a>
 </p>
 
 <p>
