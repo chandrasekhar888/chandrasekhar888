@@ -39,16 +39,6 @@
     <img src="https://img.shields.io/badge/Microservices-Architecture-blue" alt="Microservices" height="40"/>
   </a>
 
-  <!-- Apache Kafka -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Apache Kafka" width="40" height="40"/>
-  </a>
-
-  <!-- JUnit -->
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/JUnit_5_Banner.svg/512px-JUnit_5_Banner.svg.png" alt="JUnit" width="70" height="40"/>
-  </a>
-
   <!-- Mockito -->
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20433274?s=200&v=4" alt="Mockito" width="40" height="40"/>
