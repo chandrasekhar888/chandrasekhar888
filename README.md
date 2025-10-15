@@ -24,8 +24,8 @@ I’m a **fast learner** with strong attention to detail, passionate about writi
 ---
 
 ### 💼 Experience
-**Java Backend Developer** | Voltstream Technologies  
-*May 2022 – July 2025*  
+**Java Backend Developer** | **Devops Expertise**   
+*May 2022 – Present*  
 
 **Project:** Hotel Booking Platform  
 - **Architecture:** Microservices | Domain-Driven Design | Event-Driven  
