@@ -8,61 +8,53 @@
 ---
 
 ### 🌱 About Me
-I am a **Java Backend Developer** with **3+ years of experience** in building **secure, scalable, and cloud-native microservices** for U.S.-based clients in the travel-tech domain, including a complete **hotel booking platform**. I specialize in:
+I'm a **backend engineer who loves turning coffee into microservices ☕➡️💻**.  
+For the past **3+ years**, I've been building **secure, scalable, cloud-native systems** for travel-tech clients, including a full **hotel booking platform**.  
 
-- RESTful API development with Java, Spring Boot, Spring MVC, and Spring Security  
-- JWT-based authentication and Role-Based Access Control (RBAC)  
-- SQL, Spring Data JPA, Git, and API testing using Postman  
-- DevOps & Cloud: Docker, Kubernetes, Jenkins, Terraform, AWS (EC2, S3, IAM)  
-- Event-driven architectures with Kafka, caching with Redis, monitoring with ELK Stack  
-
-I’m a **fast learner** with strong attention to detail, passionate about writing **clean, maintainable, production-grade code**.  
-
-📫 Reach me at: [pchandu8803@gmail.com](mailto:pchandu8803@gmail.com)  
-📍 Bengaluru, India  
+I thrive on:  
+- Writing clean, maintainable, production-ready code  
+- Building APIs that just work ✨  
+- Automating everything that can be automated 🔧  
+- Watching logs to understand the story behind failures 📜  
 
 ---
 
-### 💼 Experience
-**Java Backend Developer** | **Devops Expertise**   
-*May 2022 – Present*  
+### 🏗 What I Build
+Here’s a glimpse of my recent playground:  
 
-**Project:** Hotel Booking Platform  
-- **Architecture:** Microservices | Domain-Driven Design | Event-Driven  
-- **Methodology:** Agile (Scrum) – Sprint Planning, Daily Standups using JIRA  
-
-**Project Overview:**  
-Built a cloud-native **hotel booking & property management platform** allowing users to search, book, and manage stays. Supported roles for Admin, Owner, and Customer with secure authentication, dynamic room tracking, and full booking lifecycle handling.
-
-**Roles & Responsibilities:**  
-- **User Service:** Implemented secure login, registration, and role-based access with JWT  
-- **Property Service:** Managed hotel listings, metadata, room types, and availability with pagination  
-- **Booking Service:** Built booking flow with date validation and email confirmations  
-- **Payment Service:** Integrated Stripe for secure payments  
-- **Notification Service:** Subscribed to Kafka to send SMS and email alerts via Twilio/SendGrid  
-- **Review & Rating Service:** Enabled user reviews and dynamic hotel rankings  
-- **Search Service:** Full-text search and advanced filtering using Elasticsearch  
-- **Inventory Service:** Managed room inventory, pricing logic, and caching with Redis  
-- **DevOps & Deployment:** Containerized services with Docker and CI/CD pipelines using Jenkins  
-- **Monitoring & Logging:** Tracing with Zipkin and centralized logging using ELK Stack  
+- **Hotel Booking Platform**: Users can search, book, and manage stays with real-time availability and pricing  
+- **Microservices Architecture**: Event-driven, cloud-native, and containerized for scale  
+- **Notifications & Reviews**: Kafka-powered notifications, user reviews & rankings  
+- **Payments**: Stripe integration for seamless payments  
+- **Search & Inventory**: Elasticsearch for full-text search, Redis for caching inventory  
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages & Databases:** Java, MySQL  
-**Spring Ecosystem:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate (JPA)  
-**Web & APIs:** RESTful APIs, Feign Client, Eureka Server, API Gateway, JWT Authentication  
-**DevOps & Cloud:** AWS (EC2, S3, IAM), Docker, Kubernetes (EKS), Terraform, Jenkins  
-**Version Control & Tools:** Git, GitHub, Maven, IntelliJ IDEA, Spring Tool Suite (STS)  
-**Messaging & Caching:** Apache Kafka, Redis  
-**Monitoring & Logging:** ELK Stack (Elasticsearch, Logstash, Kibana), Zipkin, Spring Boot Admin, Logback, SLF4J  
-**Testing & Documentation:** Postman, Swagger  
-**Methodologies:** Agile (Scrum), JIRA, SDLC  
+### 🛠 My Toolbox
+<p align="left">
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Microservices-Architecture-blue" alt="Microservices" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
+</p>
 
 ---
 
-### 🔗 Connect with Me
+### 📈 GitHub Highlights
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandrasekhar888&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrasekhar888&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar888&" alt="GitHub Streak" /></p>
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/itschandrasekhar" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -74,33 +66,6 @@ Built a cloud-native **hotel booking & property management platform** allowing u
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
 </p>
-
----
-
-### 🛠 Languages and Tools
-<p align="left">
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Microservices-Architecture-blue" alt="Microservices" height="40"/></a>
-<a href="https://site.mockito.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20433274?s=200&v=4" alt="Mockito" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandrasekhar888&show_icons=true&locale=en" alt="GitHub Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrasekhar888&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar888&" alt="GitHub Streak" /></p>
 
 ---
 
