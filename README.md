@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 About Me
-I'm a **Java Backend engineer with Devops expertise ➡️💻**.  
+I'm a **Java Backend Developer with Devops expertise ➡️💻**.  
 For the past **3+ years**, I've been building **secure, scalable, cloud-native systems** for travel-tech clients, including a full **hotel booking platform**.  
 
 I thrive on:  
